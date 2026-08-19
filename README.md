@@ -1,5 +1,3 @@
-# springbootA690D-
-springbootA690D 基于springboot的护肤品推荐系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
